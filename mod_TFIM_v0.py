@@ -4,8 +4,8 @@
 import numpy as np
 import os
 import h5py
-from scipy import linalg as LA
-import numpy.matlib
+#from scipy import linalg as LA
+#import numpy.matlib
 
 ## Class definition to define Hamiltonian
 class TFIM_Ham_params:
